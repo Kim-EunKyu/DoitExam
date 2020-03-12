@@ -1,0 +1,22 @@
+{
+  "name": "doitexam",
+  "version": "1.0.0",
+  "description": "책보면서 연습한것을 모아둔 예제",
+  "main": "moduleExam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kim-EunKyu/DoitExam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kim-EunKyu/DoitExam/issues"
+  },
+  "homepage": "https://github.com/Kim-EunKyu/DoitExam#readme",
+  "dependencies": {
+    "nconf": "^0.10.0"
+  }
+}
